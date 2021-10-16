@@ -1,0 +1,20 @@
+1. WDModifier ewd [.WD Archive]
+
+    -- This will extract all file contained within the archive to the current working directory       (Hopefully). You can not specify a destination directory, and all files will be overwritten if they have got the same names. So operate this carefully.
+
+¡¡
+
+2. WDModifier d [Compressed Single File] [Destination File]
+
+    -- This will decompress a single file and save it into a new file. It is useful for decompressing a particular compressed file. Because after the extraction of certain archive, such as Levels.wd, all extracted files are still compressed with header parts so that the game can still use them. If you are interested in the contents of those files (like *.lnd Map files and *.mis), you need to decompress them manually. NOTE: BACKUP BEFORE YOU COMMENCE ANY OPERATION!
+
+    -- You need some techniques to do this.
+
+¡¡
+
+3. WDModifier c [Sourse File] [Compressed Single File]
+
+    -- This command will compressed a particular file you specified. This is just the reverse of the operation above.
+
+¡¡
+
