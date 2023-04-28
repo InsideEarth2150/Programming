@@ -24,4 +24,9 @@
 --setaicivilemptyid
 --setaiharvesterid
 --setaihelicopterid
+--setaiplatoonid
+--setairepairerid
+--setaisapperid
+--setaisupplierid
+--setaitankid
 --setaitransporterid
